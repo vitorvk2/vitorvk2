@@ -13,6 +13,3 @@ I'm a passionate **Full-Stack Developer** and **Cloud Engineer**, constantly see
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorvk2)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittorvk2/)
-
