@@ -1,6 +1,7 @@
 ## Welcome to My GitHub! 🚀
 💬 Open to networking, collaborations, and exciting new opportunities!
 
+
 ### 👋 About Me
 I'm a passionate **Full-Stack Developer** and **Cloud Engineer**, constantly seeking to refine my skills and stay ahead in the ever-evolving tech world. With expertise in **Kubernetes**, **Docker**, **Vue.js**, **Laravel**, and **DevOps**, I thrive on building innovative and scalable solutions. 
 
@@ -13,7 +14,5 @@ I'm a passionate **Full-Stack Developer** and **Cloud Engineer**, constantly see
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorvk2)
 
-### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittorvk2/)
-
 
