@@ -24,12 +24,12 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 * **Frontend:** Vue, Nuxt, Tailwind CSS
 * **Practices:** CI/CD with GitHub Actions, observability with New Relic, FinOps
 
-## Activity
-
-![Contribution activity for vitorvk2](https://github-readme-activity-graph.vercel.app/graph?username=vitorvk2&bg_color=1a1a1a&color=e6e6e6&title_color=e2f4c5&line=e2f4c5&point=ff4d4d&area=true&area_color=e2f4c5&hide_border=true&custom_title=Contribution%20Activity)
-
 ## Say hi
 
 * Portfolio: [vk2.dev](https://vk2.dev)
 * Email: [vitor@vk2.dev](mailto:vitor@vk2.dev)
 * LinkedIn: [linkedin.com/in/vitorvk2](https://www.linkedin.com/in/vitorvk2)
+
+## Activity
+
+![Contribution activity for vitorvk2](https://github-readme-activity-graph.vercel.app/graph?username=vitorvk2&bg_color=1a1a1a&color=e6e6e6&title_color=e2f4c5&line=e2f4c5&point=ff4d4d&area=true&area_color=e2f4c5&hide_border=true&custom_title=Contribution%20Activity)
