@@ -1,7 +1,3 @@
-<img src="assets/cover-x-1.png" alt="Cover Image" width="100%">
-<br>
-<br>
-
 # Vitor Alexandre
 
 Backend and Platform Engineer. I build and scale cloud native systems, and I like turning architecture decisions into numbers that actually move.
