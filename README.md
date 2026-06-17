@@ -1,8 +1,28 @@
+<img src="assets/cover-x-1.png" alt="Cover Image" width="100%">
+<br>
+<br>
+
 # Vitor Alexandre
 
 Backend and Platform Engineer. I build and scale cloud native systems, and I like turning architecture decisions into numbers that actually move.
 
 I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee over the last four years. Most of my time goes into the platform layer: Kubernetes, cloud architecture, real time systems, and the FinOps work that keeps all of it sustainable. On the side I build my own products end to end, from infrastructure to billing.
+
+---
+
+## Core Expertise
+
+| Domain | Focus |
+|---|---|
+| **Platform Engineering** | Kubernetes on EKS and GKE, cloud architecture, self hosted infrastructure |
+| **FinOps** | Cost modeling, workload migration, keeping spend tied to business numbers |
+| **Real Time Systems** | Self hosted MQTT, WebSockets, webhook driven pipelines |
+| **Backend** | Laravel and PHP, Node.js, TypeScript, GraphQL APIs |
+| **Data** | PostgreSQL, Amazon Aurora, Redis, Metabase dashboards |
+| **Product** | Billing, Stripe integration, cost controls that keep products profitable |
+| **Observability** | New Relic, live KPIs, alerting baked in from day one |
+
+---
 
 ## A few results I'm proud of
 
@@ -11,24 +31,62 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 * Led the official Meta Business integration that lifted average ticket size by 60%.
 * Built the Metabase dashboards that gave the business live KPIs, landing an average NPS of 8.
 
+---
+
 ## Products I built end to end
 
 * **Provaki** ([provaki.com](https://provaki.com)) is an AI tutor for Brazilian public service exams. It answers questions grounded in the law, grades essays in about 30 seconds, and writes practice questions in the style of each board. It runs on Laravel, Nuxt, PostgreSQL, Redis, and Stripe, with hard cost controls so it stays profitable on a small budget.
 * **ScopeVeil** ([scopeveil.com](https://scopeveil.com)) gives you one API and one bill for Claude, GPT, and Gemini. It's a privacy first gateway where prompt content never gets logged, shipped as open core with an open source TypeScript SDK ([@scopeveil/sdk](https://github.com/scopeveil/sdk)).
 
+---
+
 ## Tech I reach for
 
-* **Backend:** PHP and Laravel, Node.js, TypeScript, GraphQL, PostgreSQL, Redis
-* **Cloud and platform:** AWS, GCP, Kubernetes (EKS and GKE), Docker, Fly.io
-* **Realtime and data:** MQTT, WebSockets, Webhooks, Metabase
-* **Frontend:** Vue, Nuxt, Tailwind CSS
-* **Practices:** CI/CD with GitHub Actions, observability with New Relic, FinOps
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-22272E?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-22272E?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-22272E?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript)
+![GraphQL](https://img.shields.io/badge/GraphQL-22272E?style=for-the-badge&logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-22272E?style=for-the-badge&logo=redis)
+
+### Cloud and Platform
+
+![AWS](https://img.shields.io/badge/AWS-22272E?style=for-the-badge&logo=task&logoColor=orange)
+![GCP](https://img.shields.io/badge/GCP-22272E?style=for-the-badge&logo=googlecloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-22272E?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-22272E?style=for-the-badge&logo=docker)
+![Fly.io](https://img.shields.io/badge/Fly.io-22272E?style=for-the-badge&logo=flydotio)
+
+### Realtime and Data
+
+![MQTT](https://img.shields.io/badge/MQTT-22272E?style=for-the-badge&logo=mqtt)
+![WebSockets](https://img.shields.io/badge/WebSockets-22272E?style=for-the-badge&logo=socketdotio)
+![Metabase](https://img.shields.io/badge/Metabase-22272E?style=for-the-badge&logo=metabase)
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue-22272E?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-22272E?style=for-the-badge&logo=nuxtdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-22272E?style=for-the-badge&logo=tailwindcss)
+
+### Practices and Observability
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-22272E?style=for-the-badge&logo=githubactions)
+![New Relic](https://img.shields.io/badge/New%20Relic-22272E?style=for-the-badge&logo=newrelic)
+![FinOps](https://img.shields.io/badge/FinOps-22272E?style=for-the-badge&logo=cashapp)
+
+---
 
 ## Say hi
 
-* Portfolio: [vk2.dev](https://vk2.dev)
-* Email: [vitor@vk2.dev](mailto:vitor@vk2.dev)
-* LinkedIn: [linkedin.com/in/vitorvk2](https://www.linkedin.com/in/vitorvk2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=firefoxbrowser)](https://vk2.dev)
+[![Email](https://img.shields.io/badge/Email-22272E?style=for-the-badge&logo=maildotru)](mailto:vitor@vk2.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22272E?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitorvk2)
+
+---
 
 ## Activity
 
