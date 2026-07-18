@@ -13,8 +13,8 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 | **Platform Engineering** | Kubernetes on EKS and GKE, cloud architecture, self hosted infrastructure |
 | **FinOps** | Cost modeling, workload migration, keeping spend tied to business numbers |
 | **Real Time Systems** | Self hosted MQTT, WebSockets, webhook driven pipelines |
-| **Backend** | Laravel and PHP, Node.js, TypeScript, GraphQL APIs |
-| **Data** | PostgreSQL, Amazon Aurora, Redis, Metabase dashboards |
+| **Backend** | Laravel and PHP, Node.js, TypeScript, GraphQL and REST APIs |
+| **Data** | PostgreSQL, Amazon Aurora, MySQL, MongoDB, Elasticsearch, Redis, Metabase dashboards |
 | **Product** | Billing, Stripe integration, cost controls that keep products profitable |
 | **Observability** | New Relic, live KPIs, alerting baked in from day one |
 
@@ -44,9 +44,16 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 ![Laravel](https://img.shields.io/badge/Laravel-22272E?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-22272E?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-22272E?style=for-the-badge&logo=python)
 ![GraphQL](https://img.shields.io/badge/GraphQL-22272E?style=for-the-badge&logo=graphql)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-22272E?style=for-the-badge)
+![Composer](https://img.shields.io/badge/Composer-22272E?style=for-the-badge&logo=composer)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-22272E?style=for-the-badge&logo=mongodb)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-22272E?style=for-the-badge&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/Redis-22272E?style=for-the-badge&logo=redis)
+![Memcached](https://img.shields.io/badge/Memcached-22272E?style=for-the-badge)
 
 ### Cloud and Platform
 
@@ -72,7 +79,12 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-22272E?style=for-the-badge&logo=githubactions)
 ![New Relic](https://img.shields.io/badge/New%20Relic-22272E?style=for-the-badge&logo=newrelic)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-22272E?style=for-the-badge&logoColor=orange)
 ![FinOps](https://img.shields.io/badge/FinOps-22272E?style=for-the-badge&logo=cashapp)
+![OOP](https://img.shields.io/badge/OOP-22272E?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-22272E?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-22272E?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-22272E?style=for-the-badge)
 
 ---
 
