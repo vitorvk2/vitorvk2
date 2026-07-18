@@ -13,6 +13,7 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 | **Platform Engineering** | Kubernetes on EKS and GKE, cloud architecture, self hosted infrastructure |
 | **FinOps** | Cost modeling, workload migration, keeping spend tied to business numbers |
 | **Real Time Systems** | Self hosted MQTT, WebSockets, webhook driven pipelines |
+| **AI & LLM** | Multi provider LLM integration (Claude, GPT, Gemini), gateway architecture, AI cost control and observability |
 | **Backend** | Laravel and PHP, Node.js, TypeScript, GraphQL and REST APIs |
 | **Data** | PostgreSQL, Amazon Aurora, MySQL, MongoDB, Elasticsearch, Redis, Metabase dashboards |
 | **Product** | Billing, Stripe integration, cost controls that keep products profitable |
@@ -54,6 +55,13 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-22272E?style=for-the-badge&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/Redis-22272E?style=for-the-badge&logo=redis)
 ![Memcached](https://img.shields.io/badge/Memcached-22272E?style=for-the-badge)
+
+### AI and LLM
+
+![Claude API](https://img.shields.io/badge/Claude%20API-22272E?style=for-the-badge&logo=claude)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-22272E?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-22272E?style=for-the-badge&logo=googlegemini)
+![LLM Gateways](https://img.shields.io/badge/LLM%20Gateways-22272E?style=for-the-badge)
 
 ### Cloud and Platform
 
