@@ -41,66 +41,66 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-22272E?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-22272E?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-22272E?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-22272E?style=for-the-badge&logo=python)
-![GraphQL](https://img.shields.io/badge/GraphQL-22272E?style=for-the-badge&logo=graphql)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-22272E?style=for-the-badge)
-![Composer](https://img.shields.io/badge/Composer-22272E?style=for-the-badge&logo=composer)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-22272E?style=for-the-badge&logo=mongodb)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-22272E?style=for-the-badge&logo=elasticsearch)
-![Redis](https://img.shields.io/badge/Redis-22272E?style=for-the-badge&logo=redis)
-![Memcached](https://img.shields.io/badge/Memcached-22272E?style=for-the-badge)
+![PHP](badges/php.svg)
+![Laravel](badges/laravel.svg)
+![Node.js](badges/node-js.svg)
+![TypeScript](badges/typescript.svg)
+![Python](badges/python.svg)
+![GraphQL](badges/graphql.svg)
+![REST APIs](badges/rest-apis.svg)
+![Composer](badges/composer.svg)
+![PostgreSQL](badges/postgresql.svg)
+![MySQL](badges/mysql.svg)
+![MongoDB](badges/mongodb.svg)
+![Elasticsearch](badges/elasticsearch.svg)
+![Redis](badges/redis.svg)
+![Memcached](badges/memcached.svg)
 
 ### AI and LLM
 
-![Claude API](https://img.shields.io/badge/Claude%20API-22272E?style=for-the-badge&logo=claude)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-22272E?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-22272E?style=for-the-badge&logo=googlegemini)
-![LLM Gateways](https://img.shields.io/badge/LLM%20Gateways-22272E?style=for-the-badge)
+![Claude API](badges/claude-api.svg)
+![OpenAI API](badges/openai-api.svg)
+![Gemini API](badges/gemini-api.svg)
+![LLM Gateways](badges/llm-gateways.svg)
 
 ### Cloud and Platform
 
-![AWS](https://img.shields.io/badge/AWS-22272E?style=for-the-badge&logo=task&logoColor=orange)
-![GCP](https://img.shields.io/badge/GCP-22272E?style=for-the-badge&logo=googlecloud)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-22272E?style=for-the-badge&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-22272E?style=for-the-badge&logo=docker)
-![Fly.io](https://img.shields.io/badge/Fly.io-22272E?style=for-the-badge&logo=flydotio)
+![AWS](badges/aws.svg)
+![GCP](badges/gcp.svg)
+![Kubernetes](badges/kubernetes.svg)
+![Docker](badges/docker.svg)
+![Fly.io](badges/fly-io.svg)
 
 ### Realtime and Data
 
-![MQTT](https://img.shields.io/badge/MQTT-22272E?style=for-the-badge&logo=mqtt)
-![WebSockets](https://img.shields.io/badge/WebSockets-22272E?style=for-the-badge&logo=socketdotio)
-![Metabase](https://img.shields.io/badge/Metabase-22272E?style=for-the-badge&logo=metabase)
+![MQTT](badges/mqtt.svg)
+![WebSockets](badges/websockets.svg)
+![Metabase](badges/metabase.svg)
 
 ### Frontend
 
-![Vue](https://img.shields.io/badge/Vue-22272E?style=for-the-badge&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt-22272E?style=for-the-badge&logo=nuxtdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-22272E?style=for-the-badge&logo=tailwindcss)
+![Vue](badges/vue.svg)
+![Nuxt](badges/nuxt.svg)
+![Tailwind CSS](badges/tailwind-css.svg)
 
 ### Practices and Observability
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-22272E?style=for-the-badge&logo=githubactions)
-![New Relic](https://img.shields.io/badge/New%20Relic-22272E?style=for-the-badge&logo=newrelic)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-22272E?style=for-the-badge&logoColor=orange)
-![FinOps](https://img.shields.io/badge/FinOps-22272E?style=for-the-badge&logo=cashapp)
-![OOP](https://img.shields.io/badge/OOP-22272E?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-22272E?style=for-the-badge)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-22272E?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-22272E?style=for-the-badge)
+![GitHub Actions](badges/github-actions.svg)
+![New Relic](badges/new-relic.svg)
+![CloudWatch](badges/cloudwatch.svg)
+![FinOps](badges/finops.svg)
+![OOP](badges/oop.svg)
+![Design Patterns](badges/design-patterns.svg)
+![Unit Testing](badges/unit-testing.svg)
+![TDD](badges/tdd.svg)
 
 ---
 
 ## Say hi
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=firefoxbrowser)](https://vk2.dev)
-[![Email](https://img.shields.io/badge/Email-22272E?style=for-the-badge&logo=maildotru)](mailto:vitor@vk2.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22272E?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitorvk2)
+[![Portfolio](badges/portfolio.svg)](https://vk2.dev)
+[![Email](badges/email.svg)](mailto:vitor@vk2.dev)
+[![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/vitorvk2)
 
 ---
 
