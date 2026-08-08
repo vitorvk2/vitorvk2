@@ -14,8 +14,8 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 | **FinOps** | Cost modeling, workload migration, keeping spend tied to business numbers |
 | **Real Time Systems** | Self hosted MQTT, WebSockets, webhook driven pipelines |
 | **AI & LLM** | Multi provider LLM integration (Claude, GPT, Gemini), gateway architecture, AI cost control and observability |
-| **Backend** | Laravel and PHP, Node.js, TypeScript, GraphQL and REST APIs |
-| **Data** | PostgreSQL, Amazon Aurora, MySQL, MongoDB, Elasticsearch, Redis, Metabase dashboards |
+| **Backend** | Laravel and PHP, Node.js, TypeScript, Go, GraphQL and REST APIs |
+| **Data** | PostgreSQL, Amazon Aurora, MySQL, MongoDB, Elasticsearch, Redis, Metabase, CDC / logical replication |
 | **Product** | Billing, Stripe integration, cost controls that keep products profitable |
 | **Observability** | New Relic, live KPIs, alerting baked in from day one |
 
@@ -24,9 +24,10 @@ I'm a Tech Lead at Pedbot, a chat commerce SaaS, a role I grew into from trainee
 ## A few results I'm proud of
 
 * Brought real time infrastructure cost down by about 70% by moving from AWS API Gateway and Lambda to self hosted MQTT on Kubernetes.
-* Cut database cost by 46% migrating PostgreSQL to Amazon Aurora I/O Optimized.
+* Brought total cloud cost down by about 40% with a Kubernetes layer that sizes each client's resources automatically.
 * Led the official Meta Business integration that lifted average ticket size by 60%.
-* Built the Metabase dashboards that gave the business live KPIs, landing an average NPS of 8.
+* Built a multitenant analytics platform that streams each client's data into a central warehouse in near real time, so every client tracks its own support, sales, and NPS.
+* Built an autonomous agent that handles third line support, on a knowledge base I created from 12 months of support history.
 
 ---
 
